@@ -1,6 +1,7 @@
 # Feature.msg
 
 string type
+float64 confidence
 geometry_msgs/Point position
 geometry_msgs/Quaternion orientation
 
