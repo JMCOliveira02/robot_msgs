@@ -6,5 +6,5 @@ float64 x
 float64 y
 float64 theta
 
-float64[9] position_covariance
-float64[9] orientation_covariance 
+float64[4] position_covariance
+float64 orientation_variance 
